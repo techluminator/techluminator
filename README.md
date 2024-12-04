@@ -47,9 +47,10 @@
 </table>
 <!--- stats (end) -->
 
-<p align="center">
+
+<!-- <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=techluminator&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" />  
-</p>
+</p>-->
 
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
