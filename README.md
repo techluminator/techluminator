@@ -7,6 +7,8 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=techluminator&label=Profile%20views&color=0e75b6&style=flat" alt="techluminator" /> </p>
 -->
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=techluminator&label=Profile%20views&color=0e75b6&style=flat" alt="techluminator" /> </p>
+
 <h3 align="center">Connect with :</h3>
 <div align="center">
 
